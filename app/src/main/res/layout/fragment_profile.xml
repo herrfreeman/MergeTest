@@ -50,7 +50,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Created with love and passion"
+        android:text="It was super hard"
         android:textColor="#000"
         android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
