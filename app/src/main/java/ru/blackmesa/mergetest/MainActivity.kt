@@ -19,4 +19,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     //COMMENT FROM FEATURE-1
+    //ADD COMMENT TO FEATURE-2
+
 }
