@@ -17,4 +17,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
     }
+
+    //ADD COMMENT TO FEATURE-2
 }
